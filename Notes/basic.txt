@@ -1,0 +1,33 @@
+# The int is widened to a float here, and a float type is returned.
+>>> 3 + 4.0
+7.0
+>>> 3 * 4.0
+12.0
+>>> 3 - 2.0
+1.0
+# Division always returns a float.
+>>> 6 / 2
+3.0
+>>> 7 / 4
+1.75
+# Calculating remainders.
+>>> 7 % 4
+3
+>>> 2 % 4
+2
+>>> 12.75 % 3
+0.75
+
+
+If an int result is needed, you can use // to truncate the result.
+>>> 6 // 2
+3
+>>> 7 // 4
+1
+
+
+To convert a float to an integer, you can use int(). Also, to convert an integer to a float, you can use float().
+>>> int(6 / 2)
+3
+>>> float(1 + 2)
+3.0
