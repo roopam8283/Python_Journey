@@ -11,3 +11,6 @@ I have done 1 execise of exercism ( Amber Day)
 
 # Day 4 14/Jan/2026
 I have done 1 execise of exercism ( Amber Day)
+
+# Day 5 14/Jan/2026
+I have done 1 execise of exercism ( Amber Day)
