@@ -20,3 +20,6 @@ I have done half execise of exercism ( Amber Day)
 
 # Day 7 17/Jan/2026
 I have done half execise of exercism ( Amber Day)
+
+# Day 8 18/Jan/2026
+I have done half execise of exercism ( Amber Day)
