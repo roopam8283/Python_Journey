@@ -26,3 +26,12 @@ I have done half execise of exercism ( Amber Day)
 
 # Day 9 19/Jan/2026
 I have done half execise of exercism ( Amber Day)
+
+# Day 10 20/Jan/2026 ( forgot to push)
+I have done 1 execise of exercism ( Amber Day)
+
+# Day 11 21/Jan/2026 ( home shift, so tired)
+I have done nothing, but this thing did not stop me.
+
+
+
