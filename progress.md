@@ -33,5 +33,9 @@ I have done 1 execise of exercism ( Amber Day)
 # Day 11 21/Jan/2026 ( home shift, so tired)
 I have done nothing, but this thing did not stop me.
 
+# Day 12 22/Jan/2026
+I have done 1 exercise of exercism.
+
+
 
 
