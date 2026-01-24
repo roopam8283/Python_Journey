@@ -36,6 +36,8 @@ I have done nothing, but this thing did not stop me.
 # Day 12 22/Jan/2026
 I have done 1 exercise of exercism (Amber Day)
 
+# Day 13 23/Jan/2026
+I have done half exercise of exercism (Amber Day)
 
 
 
