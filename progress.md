@@ -51,7 +51,10 @@ I have done one exercise of exercism (Amber Day)
 # Day 17 27/Jan/2026
 I have done half exercise of exercism and Project (More than Amber Day)
 
-# Day 18 27/Jan/2026
+# Day 18 28/Jan/2026
+I have done one exercise of exercism (Amber Day)
+
+# Day 19 29/Jan/2026
 I have done one exercise of exercism (Amber Day)
 
 
