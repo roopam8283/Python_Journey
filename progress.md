@@ -57,4 +57,6 @@ I have done one exercise of exercism (Amber Day)
 # Day 19 29/Jan/2026
 I have done one exercise of exercism (Amber Day)
 
+# Day 20 29/Jan/2026
+I have done one exercise of exercism (Amber Day)
 
