@@ -65,3 +65,6 @@ I have done half exercise of exercism (Amber Day)
 
 # Day 22 01/Feb/2026
 I have done half exercise of exercism (Amber Day)
+
+# Day 23 02/Feb/2026
+I have done half exercise of exercism (Amber Day)
