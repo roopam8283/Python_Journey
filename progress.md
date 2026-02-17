@@ -80,3 +80,8 @@ I have done half exercise of exercism (Amber Day)
 
 # Day 27 08/Feb/2026
 I have done half exercise of exercism (Amber Day)
+
+# A week missed completely , Feels Very Bad and Distracted
+
+# Day 28 16/Feb/2026
+I have done half exercise of exercism (Amber Day)
